@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+h1{
+    margin-top: 50px;
+    font-size: 80px;
+    font-weight: 700;
+    font-family: Impact;
+}
+
+p{
+    font-family: "Times New Roman";
+    font-size: 35px;
+    font-weight: 400;
+}
+
+button{
+    border-radius: 10px;
+    border: none;
+    background-color: #E7BCDE;
+    color: #67729D;
+    padding: 30px 90px;
+    transition: background-color .5s;
+}
+
+button:hover{
+    background-color: #FED9ED;
+    cursor: pointer;
+}
